@@ -4,7 +4,7 @@ This page helps developers find out which default fonts are available in their m
 
 ## How to use it
 
-Just load the page, choose a font size (or leave the default) and, if you want, an additional text.
+Just head to [this page](https://code4it-dev.github.io/font-checker), choose a font size (or leave the default) and, if you want, an additional text.
 
 You will see the list of fonts, each rendered with the font itself.
 
